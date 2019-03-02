@@ -10,7 +10,7 @@ Build
 $ npm run init
 ```
 ### DEVELOPMENT
-_Development server is server over HTTPS, self signed_
+_Development served is server over HTTPS, self signed_
 
 ```
 $ npm run start
